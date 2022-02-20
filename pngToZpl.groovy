@@ -1,3 +1,6 @@
+/**
+ * pngToZpl.groovy: Uses the LabelZoom API to convert a PNG image to ZPL
+ */
 def fileName = 'LabelZoom_Logo_f_400px.png' // TODO: Replace this with the relative or absolute path of the image you want to convert
 
 def file = new File(fileName)
